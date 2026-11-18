@@ -1,27 +1,27 @@
 # Adewale Agbabiaka
 
-**Cloud Security Engineer · DevSecOps**
+**DevOps · DevSecOps · Cloud Security Engineer**
 
-I secure cloud and enterprise systems at bank scale — and I came up *building* the things I now defend.
+I build and secure cloud infrastructure and delivery pipelines. I started in DevOps, working on AWS, Terraform and CI/CD for payment platforms, then moved into security engineering. I treat security as part of how software is built and shipped, not a gate at the end.
 
-Security engineer at a tier-1 bank, where I run the DevSecOps program across DevOps, Cloud, Development, and AI teams. Former DevOps/SRE, so I don't theorize about pipelines and infrastructure. I've shipped them. Today I focus on cloud security, data security posture, and embedding security into how software actually gets delivered.
+🎯 Open to fully remote DevOps, DevSecOps and cloud security roles · Portfolio → aese.io
 
-🎯 Open to remote cloud & AI security roles · Portfolio → [aese.io](https://aese.io)
+## What I work on
 
----
+- **Cloud:** AWS, Azure
+- **Infrastructure and CI/CD:** Terraform, Ansible, GitHub Actions, GitLab CI/CD
+- **DevSecOps:** secrets scanning, SAST, dependency scanning, container and IaC security, SBOMs, image signing, pipeline hardening
+- **Cloud security:** IAM, secrets management, logging and detection, Microsoft Defender, Entra ID
 
-### 🔐 What I work on
-- **Cloud security** — Microsoft Defender, Entra ID, Intune, Azure security controls; AWS
-- **Data security & governance** — Purview (DLP, sensitivity labels, DSPM), Securiti.ai
-- **Endpoint & threat detection** — Defender for Endpoint, CrowdStrike Falcon, Netwrix
-- **DevSecOps** — SAST / SCA / DAST (Checkmarx, SonarQube), pipeline hardening, IaC security
+## Hands on labs
 
+I am building DevSecOps and DevOps labs in public on this account. Each one is a personal lab on my own cloud accounts, and each one ships with evidence.
 
-### 📜 Certifications
-- ✅ Microsoft **SC-900** — Security, Compliance & Identity Fundamentals
-- 🔄 Microsoft **AZ-500** — Azure Security Engineer
-- ✅ AWS Certified Cloud Practitioner
-- 🎯 Next up: **SC-500** · **AWS Solutions Architect – Associate**
+## Certifications
 
-### 📫 Reach me
-[aese.io](https://aese.io) · [LinkedIn](https://www.linkedin.com/in/adewale-a-353342125) · adewale.agbabiaka007@gmail.com · 🌍 Open to fully remote
+✅ HashiCorp Terraform Associate (004) · ✅ Microsoft AZ-500 · ✅ Microsoft AZ-900 · ✅ Microsoft SC-900 · ✅ AWS Cloud Practitioner
+🎯 Next: CKA · CKS · AWS Solutions Architect Associate
+
+## Reach me
+
+aese.io · LinkedIn · adewale.agbabiaka007@gmail.com
