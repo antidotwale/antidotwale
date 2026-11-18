@@ -19,7 +19,8 @@ Security engineer at a tier-1 bank, where I run the DevSecOps program across Dev
 
 ### 📜 Certifications
 - ✅ Microsoft **SC-900** — Security, Compliance & Identity Fundamentals
-- 🔄 Microsoft **AZ-500** — Azure Security Engineer *(in progress)*
+- 🔄 Microsoft **AZ-500** — Azure Security Engineer
+- ✅ AWS Certified Cloud Practitioner
 - 🎯 Next up: **SC-500** · **AWS Solutions Architect – Associate**
 
 ### 📫 Reach me
